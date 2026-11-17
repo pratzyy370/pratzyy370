@@ -1,38 +1,242 @@
-<h1 align="center">Hi 👋, I'm Prathyush Rao M</h1>
-<h3 align="center">A passionate Backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratzyy370&label=Profile%20views&color=0e75b6&style=flat" alt="pratzyy370" /> </p>
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratzyy370" alt="pratzyy370" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [RouteWise-Intelligent Mobility Platform](https://github.com/pratzyy370/RouteWise)
+# Hi 👋, I'm Prathyush Rao M
 
-- 🌱 I’m currently learning **FastAPI and System Design**
+### Python Backend Developer | Software Engineer | AI Enthusiast
 
-- 👯 I’m looking to collaborate on [Deepfake Detection Using deepLearning](https://github.com/pratzyy370/deepfake-detection-project)
+Building scalable backend applications, exploring system design, and turning ideas into practical software solutions.
 
-- 💬 Ask me about **Backend development**
+<img src="https://komarev.com/ghpvc/?username=pratzyy370&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-- 📫 How to reach me **prathyushraomcareers@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://github.com/pratzyy370">
+  <img src="https://img.shields.io/github/followers/pratzyy370?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/pratzyy370?tab=repositories">
+  <img src="https://img.shields.io/badge/View-My%20Repositories-black?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                      ABOUT ME                         -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **RouteWise – Intelligent Mobility Platform**
+- 🌱 Learning **FastAPI, Backend Engineering & System Design**
+- 💡 Interested in **Python Backend Development, REST APIs, Databases and AI**
+- 👯 Looking to collaborate on interesting software and AI projects
+- 💬 Ask me about **Python, Backend Development, SQL and APIs**
+- 📫 Reach me at: **prathyushraomcareers@gmail.com**
+- ⚡ Always curious about learning new technologies and building real-world applications.
+
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/prathyush rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathyush rao" height="30" width="40" /></a>
-<a href="https://instagram.com/prathyu166_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathyu166_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrkeentechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrkeentechie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathyush_rao_codezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathyush_rao_codezz" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prathyush_rao_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prathyush_rao_m" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/prathyushrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/prathyushrao" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### Backend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratzyy370&show_icons=true&locale=en&layout=compact" alt="pratzyy370" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,redis" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratzyy370&show_icons=true&locale=en" alt="pratzyy370" /></p>
+### Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratzyy370&" alt="pratzyy370" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,react" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                  GITHUB ANALYTICS                     -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### GitHub Statistics
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=pratzyy370&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pratzyy370&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+### Repository & Star Statistics
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/mini?username=pratzyy370&metric=repos&style=for-the-badge" alt="Total Public Repositories"/>
+
+<img src="https://ghstats.dev/api/mini?username=pratzyy370&metric=stars&style=for-the-badge" alt="Total Stars Received"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION STREAK                  -->
+<!-- ===================================================== -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratzyy370&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION ACTIVITY                 -->
+<!-- ===================================================== -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratzyy370&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 RouteWise
+
+**Intelligent Mobility Platform**
+
+An intelligent platform focused on mobility and route optimization.
+
+- Backend application development
+- Intelligent route management
+- Real-world problem solving
+
+[View Repository →](https://github.com/pratzyy370/RouteWise)
+
+</td>
+
+<td width="50%">
+
+### 🧠 Deepfake Detection
+
+**Deep Learning Based Detection**
+
+A project focused on detecting manipulated media using deep learning techniques.
+
+- Deep learning
+- Image and video analysis
+- AI-based detection
+
+[View Repository →](https://github.com/pratzyy370/deepfake-detection-project)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+<!--                  CODING PROFILES                       -->
+<!-- ===================================================== -->
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/prathyush_rao_codezz/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/mrkeentechie">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@prathyush_rao_m">
+  <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/prathyushrao/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    CONNECT WITH ME                    -->
+<!-- ===================================================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prathyushraomcareers@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/prathyu166_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Let's connect, collaborate and build something impactful.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+
+</div>
+
 
 
 <!--
